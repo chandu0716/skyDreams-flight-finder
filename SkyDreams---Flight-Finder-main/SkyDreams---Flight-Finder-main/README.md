@@ -52,18 +52,3 @@ npm start
 - Add, edit, and delete flights
 - Fake payment gateway
 
-
----
-
-##  ✅ 6.👨‍💻Team Details
-
-**Team ID**: LTVIP2025TMID59738  
-**Team Size**: 4  
-
-**Team Leader**:  
-Vellalacheruvu Devi Sahasra
-
-**Team Members**:  
-1. Tirumalasetti Vineela  
-2. Thippaluri Yaseen Basha  
-3. Thiruvaipati Lakshmi Navaneeth
